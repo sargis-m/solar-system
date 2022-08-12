@@ -1,0 +1,102 @@
+body {
+    background: url(img/microlensing.png);
+    height: 1000px;
+}
+
+img {
+    width: 100%;
+}
+
+#sun {
+    background: url(img/sun.png) no-repeat;
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    top: 385px;
+    left: 520px;
+}
+
+#mercury {
+    position: absolute;
+    width: 14px;
+    height: 14px;
+    top: 478px;
+    left: 733px;
+}
+
+#venera {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    top: 475px;
+    left: 758px;
+}
+
+#earth {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    top: 475px;
+    left: 789px;
+}
+
+#mars {
+    position: absolute;
+    width: 16px;
+    height: 16px;
+    top: 477px;
+    left: 820px;
+}
+
+#yupiter {
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    top: 455px;
+    left: 847px;
+}
+
+#saturn {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    top: 460px;
+    left: 918px;
+}
+
+#uran {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    top: 465px;
+    left: 979px;
+}
+
+#neptun {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    top: 465px;
+    left: 1030px;
+}
+
+#pluton {
+    position: absolute;
+    width: 16px;
+    height: 16px;
+    top: 477px;
+    left: 1081px;
+}
+
+#moon {
+    position: absolute;
+    width: 6px;
+    height: 6px;
+    top: 475px;
+    left: 810px;
+    line-height: 0;
+}
+
+/*#sun, #mercury, #venera, #earth, #moon, #mars, #yupiter, #saturn, #uran, #neptun, #pluton {*/
+/*outline: 1px dotted gray;*/
+/*}*/
